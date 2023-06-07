@@ -589,10 +589,10 @@ You know you have come to the right place when you reach a SAMSUNG PRIVATE LIMIT
 
 ### Home Page:
 
-![output](h.png)
-![output](p.png)
-![output](pe.png)
-![output](c.png)
+![output](images/h.png)
+![output](images/p.png)
+![output](images/pe.png)
+![output](images/c.png)
 
 ## Result:
 
