@@ -587,12 +587,17 @@ You know you have come to the right place when you reach a SAMSUNG PRIVATE LIMIT
 ```
 ## OUTPUT:
 
-### Home Page:
+### sample:
+![h](https://github.com/Reebak04/productcompanywebsite/assets/118364993/b1cf1bd6-b73d-4d06-821b-821eaf8049b7)
 
-![output](.../h.png)
-![output](.../p.png)
-![output](..../pe.png)
-![output](../c.png)
+### product:
+![p](https://github.com/Reebak04/productcompanywebsite/assets/118364993/79892a49-bedc-46df-b57c-c020ad4afcc2)
+
+### people:
+![pe](https://github.com/Reebak04/productcompanywebsite/assets/118364993/263a6019-0ce9-4adf-9786-0df867b00021)
+
+### contact:
+![c](https://github.com/Reebak04/productcompanywebsite/assets/118364993/c98fdcd7-6786-4605-81d5-35b711a4ca7b)
 
 ## Result:
 
